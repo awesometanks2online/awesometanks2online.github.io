@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://awesometanks2Online.github.io/sitemap.xml
